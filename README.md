@@ -25,6 +25,7 @@
 
 <!-- VPN Section -->
 <span style="font-size: 4em;">🌐</span>
+
 <b>Virtual Private Network (VPN) Implementation</b>
   - [Configured secure VPN connections using Windows Server and Azure VMs](https://github.com/MichaelDieuveuille/vpn-configuration)
     
