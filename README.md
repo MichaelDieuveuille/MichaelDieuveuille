@@ -32,7 +32,7 @@
     
   - [Tested authentication and tunnel stability while documenting best practices](https://github.com/MichaelDieuveuille/vpn-testing-and-validation)
     
-  - <img src="https://github.com/MichaelDieuveuille/vpn-configuration/blob/main/vpn-lab-diagram.png" width="500" alt="VPN Lab Screenshot" />
+  - <img src="https://github.com/MichaelDieuveuille/vpn-configuration/blob/main/vpn-lab-diagram.png" width="1000" alt="VPN Lab Screenshot" />
     
 <h2>🤳 Connect with me:</h2>
 
