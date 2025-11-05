@@ -3,8 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <!-- Active Directory Section -->
-<img src="https://cdn-icons-png.flaticon.com/512/906/906340.png" width="50" alt="Active Directory Icon" />
-<b>Active Directory Domain Services (AD DS) Setup and Management Lab</b>
+<img src="https://cdn-icons-png.flaticon.com/512/906/906340.png" width="50" alt="Active Directory Icon" /> <b>Active Directory Domain Services (AD DS) Setup and Management Lab</b>
 
   - [Configuring Active Directory within Azure VMs](https://github.com/MichaelDieuveuille/configure-ad)
     
@@ -13,8 +12,7 @@
   - <img src="https://github.com/MichaelDieuveuille/configure-ad/blob/main/ad-lab-diagram.png" width="500" alt="Active Directory Lab Screenshot" />
 
 <!-- DNS Section -->
-<img src="https://cdn-icons-png.flaticon.com/512/2306/2306154.png" width="50" alt="DNS Icon" />
-<b>Domain Name System (DNS) Configuration and Troubleshooting</b>
+<img src="https://cdn-icons-png.flaticon.com/512/2306/2306154.png" width="50" alt="DNS Icon" /> <b>Domain Name System (DNS) Configuration and Troubleshooting</b>
   - [Configured DNS A and CNAME records to manage hostname resolution](https://github.com/MichaelDieuveuille/dns-record-configuration)
     
   - [Used <code>nslookup</code> and <code>ping</code> to troubleshoot failed name resolutions](https://github.com/MichaelDieuveuille/dns-troubleshooting)
