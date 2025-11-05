@@ -24,7 +24,7 @@
   - <img src="https://github.com/MichaelDieuveuille/dns-record-configuration/blob/main/dns-lab-diagram.png" width="500" alt="DNS Lab Screenshot" />
 
 <!-- VPN Section -->
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="50" alt="VPN Icon" />
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149684.png" width="50" alt="VPN Shield Icon" />
 <b>Virtual Private Network (VPN) Implementation</b>
   - [Configured secure VPN connections using Windows Server and Azure VMs](https://github.com/MichaelDieuveuille/vpn-configuration)
     
