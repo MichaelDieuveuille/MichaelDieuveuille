@@ -24,7 +24,7 @@
   - <img src="https://github.com/MichaelDieuveuille/dns-record-configuration/blob/main/dns-lab-diagram.png" width="500" alt="DNS Lab Screenshot" />
 
 <!-- VPN Section -->
-<span style="font-size: 4em;">🌐</span>
+<h2>🌐 Virtual Private Network (VPN) Implementation</h2>
 
 <b>Virtual Private Network (VPN) Implementation</b>
   - [Configured secure VPN connections using Windows Server and Azure VMs](https://github.com/MichaelDieuveuille/vpn-configuration)
