@@ -24,13 +24,15 @@
   - <img src="https://github.com/MichaelDieuveuille/dns-record-configuration/blob/main/dns-lab-diagram.png" width="500" alt="DNS Lab Screenshot" />
 
 <!-- VPN Section -->
-<img src="https://cdn-icons-png.flaticon.com/512/906/906362.png" width="50" alt="VPN Icon" />
+<img src="https://cdn-icons-png.flaticon.com/512/869/869636.png" width="50" alt="VPN Globe Icon" />
 <b>Virtual Private Network (VPN) Implementation</b>
   - [Configured secure VPN connections using Windows Server and Azure VMs](https://github.com/MichaelDieuveuille/vpn-configuration)
     
   - [Implemented L2TP/IPsec encryption to enable secure remote access](https://github.com/MichaelDieuveuille/vpn-encryption-setup)
     
   - [Tested authentication and tunnel stability while documenting best practices](https://github.com/MichaelDieuveuille/vpn-testing-and-validation)
+    
+  - <img src="https://github.com/MichaelDieuveuille/vpn-configuration/blob/main/vpn-lab-diagram.png" width="500" alt="VPN Lab Screenshot" />
     
   - <img src="https://github.com/MichaelDieuveuille/vpn-configuration/blob/main/vpn-lab-diagram.png" width="500" alt="VPN Lab Screenshot" />
 <h2>🤳 Connect with me:</h2>
