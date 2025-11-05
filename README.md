@@ -24,9 +24,9 @@
   - <img src="https://github.com/MichaelDieuveuille/dns-record-configuration/blob/main/dns-lab-diagram.png" width="500" alt="DNS Lab Screenshot" />
 
 <!-- VPN Section -->
-<h2>🌐 Virtual Private Network (VPN) Implementation</h2>
+<h2>🌐 
+Virtual Private Network (VPN) Implementation</h2>
 
-<b>Virtual Private Network (VPN) Implementation</b>
   - [Configured secure VPN connections using Windows Server and Azure VMs](https://github.com/MichaelDieuveuille/vpn-configuration)
     
   - [Implemented L2TP/IPsec encryption to enable secure remote access](https://github.com/MichaelDieuveuille/vpn-encryption-setup)
