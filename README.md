@@ -24,14 +24,14 @@
   - <img src="https://github.com/MichaelDieuveuille/dns-record-configuration/blob/main/dns-lab-diagram.png" width="500" alt="DNS Lab Screenshot" />
 
 <!-- VPN Section -->
-<img src="https://www.citypng.com/public/uploads/preview/transparent-hd-internet-globe-blue-icon-701751695035228s3pzw5luvt.png" width="50" alt="VPN Transparent Globe Icon" />
+<span style="font-size: 2em;">🌐</span>
 <b>Virtual Private Network (VPN) Implementation</b>
   - [Configured secure VPN connections using Windows Server and Azure VMs](https://github.com/MichaelDieuveuille/vpn-configuration)
     
   - [Implemented L2TP/IPsec encryption to enable secure remote access](https://github.com/MichaelDieuveuille/vpn-encryption-setup)
     
   - [Tested authentication and tunnel stability while documenting best practices](https://github.com/MichaelDieuveuille/vpn-testing-and-validation)
-  
+    
   - <img src="https://github.com/MichaelDieuveuille/vpn-configuration/blob/main/vpn-lab-diagram.png" width="500" alt="VPN Lab Screenshot" />
     
 <h2>🤳 Connect with me:</h2>
