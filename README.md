@@ -8,7 +8,6 @@
   <li>[Configuring Active Directory within Azure VMs](https://github.com/MichaelDieuveuille/configure-ad)</li>
   <li>[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MichaelDieuveuille/azure-network-protocols)</li>
 </ul>
-<img src="https://github.com/MichaelDieuveuille/configure-ad/blob/main/ad-lab-diagram.png" width="500" alt="Active Directory Lab Screenshot" />
 
 <!-- DNS Section -->
 <h2><img src="https://cdn-icons-png.flaticon.com/512/2306/2306154.png" width="50" alt="DNS Icon" /> Domain Name System (DNS) Configuration and Troubleshooting</h2>
