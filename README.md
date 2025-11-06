@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <!-- Active Directory Section -->
-<h2>🗂️ Active Directory Domain Services (AD DS) Setup and Management Lab</h2>
+<h2>🗂️ Active Directory Domain Services (AD DS) Setup and Management</h2>
 <ul>
   <li>[Configuring Active Directory within Azure VMs](https://github.com/MichaelDieuveuille/configure-ad)</li>
   <li>[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MichaelDieuveuille/azure-network-protocols)</li>
