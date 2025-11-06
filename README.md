@@ -24,7 +24,6 @@
   <li>[Established Secure VPN Connection Using ProtonVPN](https://github.com/MichaelDieuveuille/vpn-encryption-setup)</li>
   <li>[Validated VPN Effectiveness Through IP and Location Testing](https://github.com/MichaelDieuveuille/vpn-testing-and-validation)</li>
 </ul>
-<img src="https://github.com/MichaelDieuveuille/vpn-configuration/blob/main/vpn-lab-diagram.png" width="500" alt="VPN Lab Screenshot" />
 
 <h2>🤳 Connect with me:</h2>
 <!-- LinkedIn -->
