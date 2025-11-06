@@ -23,8 +23,8 @@
 <h2>🌐 Virtual Private Network (VPN) Implementation</h2>
 <ul>
   <li>[Configured secure VPN connections using Windows Server and Azure VMs](https://github.com/MichaelDieuveuille/vpn-configuration)</li>
-  <li>[Implemented L2TP/IPsec encryption to enable secure remote access](https://github.com/MichaelDieuveuille/vpn-encryption-setup)</li>
-  <li>[Tested authentication and tunnel stability while documenting best practices](https://github.com/MichaelDieuveuille/vpn-testing-and-validation)</li>
+  <li>[Established Secure VPN Connection Using ProtonVPN](https://github.com/MichaelDieuveuille/vpn-encryption-setup)</li>
+  <li>[Validated VPN Effectiveness Through IP and Location Testing](https://github.com/MichaelDieuveuille/vpn-testing-and-validation)</li>
 </ul>
 <img src="https://github.com/MichaelDieuveuille/vpn-configuration/blob/main/vpn-lab-diagram.png" width="500" alt="VPN Lab Screenshot" />
 
