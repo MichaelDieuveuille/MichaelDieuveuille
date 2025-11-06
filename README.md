@@ -16,7 +16,6 @@
   <li>[Used <code>nslookup</code> and <code>ping</code> to troubleshoot failed name resolutions](https://github.com/MichaelDieuveuille/dns-troubleshooting)</li>
   <li>[Analyzed and cleared local DNS cache using <code>ipconfig /displaydns</code> and <code>ipconfig /flushdns</code>](https://github.com/MichaelDieuveuille/dns-cache-management)</li>
 </ul>
-<img src="https://github.com/MichaelDieuveuille/dns-record-configuration/blob/main/dns-lab-diagram.png" width="500" alt="DNS Lab Screenshot" />
 
 <!-- VPN Section -->
 <h2>🌐 Virtual Private Network (VPN) Implementation</h2>
