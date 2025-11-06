@@ -9,6 +9,7 @@
   <li>[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MichaelDieuveuille/azure-network-protocols)</li>
 </ul>
 
+
 <!-- DNS Section -->
 <h2><img src="https://cdn-icons-png.flaticon.com/512/2306/2306154.png" width="50" alt="DNS Icon" /> Domain Name System (DNS) Configuration and Troubleshooting</h2>
 <ul>
@@ -17,6 +18,7 @@
   <li>[Analyzed and cleared local DNS cache using <code>ipconfig /displaydns</code> and <code>ipconfig /flushdns</code>](https://github.com/MichaelDieuveuille/dns-cache-management)</li>
 </ul>
 
+
 <!-- VPN Section -->
 <h2>🌐 Virtual Private Network (VPN) Implementation</h2>
 <ul>
@@ -24,6 +26,7 @@
   <li>[Established Secure VPN Connection Using ProtonVPN](https://github.com/MichaelDieuveuille/vpn-encryption-setup)</li>
   <li>[Validated VPN Effectiveness Through IP and Location Testing](https://github.com/MichaelDieuveuille/vpn-testing-and-validation)</li>
 </ul>
+
 
 <h2>🤳 Connect with me:</h2>
 <!-- LinkedIn -->
