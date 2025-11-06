@@ -22,7 +22,7 @@
 <!-- VPN Section -->
 <h2>🌐 Virtual Private Network (VPN) Implementation</h2>
 <ul>
-  <li>[Configured secure VPN connections using Windows Server and Azure VMs](https://github.com/MichaelDieuveuille/vpn-configuration)</li>
+  <li>[Created and Configured an Azure Virtual Machine in a Foreign Region](https://github.com/MichaelDieuveuille/vpn-configuration)</li>
   <li>[Established Secure VPN Connection Using ProtonVPN](https://github.com/MichaelDieuveuille/vpn-encryption-setup)</li>
   <li>[Validated VPN Effectiveness Through IP and Location Testing](https://github.com/MichaelDieuveuille/vpn-testing-and-validation)</li>
 </ul>
