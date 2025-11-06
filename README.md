@@ -33,7 +33,3 @@
 <a href="https://linkedin.com/in/MichaelDieuveuille">
   <img align="left" alt="Michael | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<!-- Gmail -->
-<a href="mailto:michaeldieuveuille@gmail.com">
-  <img align="left" alt="Michael | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
