@@ -14,8 +14,6 @@
 <h2><img src="https://cdn-icons-png.flaticon.com/512/2306/2306154.png" width="50" alt="DNS Icon" /> Domain Name System (DNS) Configuration and Troubleshooting</h2>
 <ul>
   <li>[Configured DNS A and CNAME records to manage hostname resolution](https://github.com/MichaelDieuveuille/dns-record-configuration)</li>
-  <li>[Used <code>nslookup</code> and <code>ping</code> to troubleshoot failed name resolutions](https://github.com/MichaelDieuveuille/dns-troubleshooting)</li>
-  <li>[Analyzed and cleared local DNS cache using <code>ipconfig /displaydns</code> and <code>ipconfig /flushdns</code>](https://github.com/MichaelDieuveuille/dns-cache-management)</li>
 </ul>
 
 
