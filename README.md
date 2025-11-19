@@ -19,9 +19,9 @@
 <!-- OsTicket HelpDesk Ticket System -->
 <h2>  osTicket (Help Desk Ticketing System) </h2>
 <ul>
-  <li> osTicket: Prerequisites and Installation
-  <li> osTicket: Post-Installation Configuration
-  <li> osTicket: Ticket Lifestyle Examples
+  <li> osTicket: Prerequisites and Installation((https://github.com/MichaelDieuveuille/osticket-prereq-install)</li>
+  <li> osTicket: Post-Installation Configuration(https://github.com/MichaelDieuveuille/osticket-postinstall-config)</li>
+  <li> osTicket: Ticket Lifestyle Examples(https://github.com/MichaelDieuveuille/osticket-lifestyle-ex)</li>
 </ul>
 
 <!-- VPN Section -->
