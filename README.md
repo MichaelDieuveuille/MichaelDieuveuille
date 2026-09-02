@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/MichaelDieuveuille">IT Professional</a> ☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Cloud and Information Technology Projects:</h2>
 
 <!-- Active Directory Section -->
 <h2>🗂️ Active Directory Domain Services (AD DS) Setup and Management</h2>
