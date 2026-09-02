@@ -2,6 +2,17 @@
 
 <h2>👨‍💻 Cloud and Information Technology Projects:</h2>
 
+<!-- AWS Cloud & Networking Section -->
+<h2>☁️ AWS Cloud & Networking</h2>
+<ul>
+  <li>
+    <a href="https://github.com/MichaelDieuveuille/ec2-vpc-lab">
+      AWS EC2 & VPC Networking: Secure Cloud Infrastructure Lab
+    </a>
+  </li>
+  <li>
+
+
 <!-- Active Directory Section -->
 <h2>🗂️ Active Directory Domain Services (AD DS) Setup and Management</h2>
 <ul>
