@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/MichaelDieuveuille">IT Professional</a> ☺</h1>
+<h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/MichaelDieuveuille">Cloud and IT Professional</a> ☺</h1>
 
 <h2>👨‍💻 Cloud and Information Technology Projects:</h2>
 
