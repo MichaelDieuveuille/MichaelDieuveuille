@@ -10,7 +10,7 @@
       AWS EC2 & VPC Networking: Secure Cloud Infrastructure Lab
     </a>
   </li>
-  <li>
+
 
 
 <!-- Active Directory Section -->
