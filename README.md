@@ -27,19 +27,7 @@
   <li>Configured DNS A and CNAME records to manage hostname resolution(https://github.com/MichaelDieuveuille/dns-record-configuration)</li>
 </ul>
 
-<!-- OsTicket HelpDesk Ticket System -->
-<h2> 🎟️🛠️💻 osTicket (Help Desk Ticketing System) </h2>
-<ul>
-  <li> osTicket: Prerequisites and Installation((https://github.com/MichaelDieuveuille/osticket-prereqs)</li>
-  <li> osTicket: Post-Installation Configuration(https://github.com/MichaelDieuveuille/osticket-postinstall-config)</li>
-  <li> osTicket: Ticket Lifestyle Examples(https://github.com/MichaelDieuveuille/osticket-lifestyle-ex)</li>
-</ul>
 
-<!-- VPN Section -->
-<h2>🌐 Virtual Private Network (VPN) Implementation</h2>
-<ul>
-  <li>Created and Configured an Azure Virtual Machine in a Foreign Region(https://github.com/MichaelDieuveuille/vpn-configuration)</li>
-</ul>
 
 
 <h2>🤳 Connect with me:</h2>
